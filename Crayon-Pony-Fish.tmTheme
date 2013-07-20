@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Name:       Crayon Pony Fish
+    Author:     Jan T. Sott (http://github.com/idleberg)
+
+    Part of The Life Aquatic inspired schemes by Jan T. Sott (https://github.com/idleberg/Zissou.tmTheme)
+    Base16 template by for TextMate by Chris Kempson (https://github.com/chriskempson)
+
+-->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
