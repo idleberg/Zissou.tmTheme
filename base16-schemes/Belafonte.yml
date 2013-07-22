@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Zissou: Belafonte"
+author: "Jan T. Sott"
+base00: "20111b" # ----
+base01: "302129" # ---
+base02: "45373c" # --
+base03: "5e5252" # -
+base04: "7a6e6a" # +
+base05: "968c83" # ++
+base06: "b0a69a" # +++
+base07: "d5ccba" # ++++
+base08: "be100e" # red
+base09: "7ca89e" # orange
+base0A: "eaa549" # yellow
+base0B: "858162" # green
+base0C: "989a9c" # aqua
+base0D: "426a79" # blue
+base0E: "97522c" # purple
+base0F: "67281a" # brown

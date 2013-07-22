@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Zissou: Crayon Pony Fish"
+author: "Jan T. Sott"
+base00: "1c0806" # ----
+base01: "281413" # ---
+base02: "3a2526" # --
+base03: "4f393d" # -
+base04: "655055" # +
+base05: "7c666d" # ++
+base06: "917a84" # +++
+base07: "a28b96" # ++++
+base08: "a40e38" # red
+base09: "bb4423" # orange
+base0A: "d44d26" # yellow
+base0B: "68a312" # green
+base0C: "bea6ad" # aqua
+base0D: "eeb679" # blue
+base0E: "7d4163" # purple
+base0F: "d23d70" # brown
