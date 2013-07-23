@@ -1,6 +1,6 @@
 # Zissou for TextMate & Sublime Text
 
-Color scheme inspired by Wes Anderson's movie [The Life Aquatic with Steve Zissou][1].
+Three color schemes inspired by Wes Anderson's movie [The Life Aquatic with Steve Zissou][1].
 
 ![Animated Screenshot][2]
 
@@ -17,7 +17,7 @@ Color scheme inspired by Wes Anderson's movie [The Life Aquatic with Steve Zisso
 
 1. Make sure you already have [Package Control][3] installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Select *Zissou Color Scheme* and press `Enter`
+3. Select *Zissou Color Schemes* and press `Enter`
 
 With [auto_upgrade][4] enabled, Package Control will keep all installed packages up-to-date!
 
