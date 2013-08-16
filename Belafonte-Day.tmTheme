@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Zissou.tmTheme</string>
 	<key>semanticClass</key>
-	<string>belafonte.day</string>
+	<string>theme.belafonte.day</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
