@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
-    Name:       Zissou: Belafonte (Night)
-    Author:     Jan T. Sott (http://github.com/idleberg)
+    Name:		Zissou: Belafonte (Night)
+    Author:		Jan T. Sott
+    URL:		https://github.com/idleberg/Zissou.tmTheme
 
-    Color scheme by Jan T. Sott (https://github.com/idleberg/Zissou.tmTheme)
     Base16 template for TextMate by Chris Kempson (https://github.com/chriskempson)
 
 -->
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>author</key>
@@ -18,7 +18,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Zissou.tmTheme</string>
 	<key>semanticClass</key>
-	<string>belafonte-night</string>
+	<string>belafonte.night</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
