@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Zissou.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.crayon-pony-fish</string>
+	<string>theme.dark.crayon-pony-fish</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
