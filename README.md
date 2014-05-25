@@ -1,4 +1,4 @@
-# Zissou for TextMate & Sublime Text
+# Zissou for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Zissou.tmTheme.png)](http://travis-ci.org/idleberg/Zissou.tmTheme)
 
 Three color schemes inspired by Wes Anderson's movie [The Life Aquatic with Steve Zissou](http://www.imdb.com/title/tt0362270/).
 
